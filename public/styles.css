@@ -28,20 +28,4 @@ h1
   border-radius: 5px;
   margin-left: 1rem;
 }
-@media (max-width: 480px)
-{
-  body
-  {
-    width: auto;
-    height: auto;
-  }
-  h1
-  {
-    text-align: center;
-    margin-left: 10px;
-  }
-  .submit
-  {
-    margin-top: 50px;
-  }
-}
+
